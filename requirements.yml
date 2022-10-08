@@ -5,4 +5,9 @@
        name: java 
      - src: git@github.com:AvdeevVl/elastic-role.git
        scm: git
+       version: "1.0.1"
        name: elastic
+     - src: git@github.com:AvdeevVl/kibana-role.git
+       scm: git
+       version: "1.0.1"
+       name: kibana
