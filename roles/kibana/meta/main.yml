@@ -1,0 +1,7 @@
+galaxy_info:
+  author: AvdeevVl
+  description: Install kibana from remote server
+  license: BSD-3-Clause
+  min_ansible_version: 2.9
+  galaxy_tags:
+dependencies: []
